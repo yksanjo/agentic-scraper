@@ -1,0 +1,12 @@
+# Agentic Scraper Dependencies
+
+# Core
+asyncio
+typing
+
+# Optional - for real browser automation
+# playwright>=1.40.0
+# playwright-asyncio>=1.40.0
+
+# Optional - for enhanced memory (already uses sqlite3)
+# sqlalchemy>=2.0.0
