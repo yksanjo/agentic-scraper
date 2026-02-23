@@ -1,5 +1,12 @@
 # agentic-scraper
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agentic-scraper/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agentic-scraper/actions)
+![License](https://img.shields.io/github/license/yksanjo/agentic-scraper)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agentic-scraper)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agentic-scraper)
+
 ## Detailed Description
 
 agentic-scraper is maintained as an industry-grade software project with production-ready engineering practices.  
